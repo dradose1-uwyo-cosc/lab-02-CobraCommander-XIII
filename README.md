@@ -1,6 +1,6 @@
 # Reuben McGuire
-## [Lab02]
-## [Submission date: 09/18/24]
+## Lab02
+## Submission date: 09/18/24
 ## Worked with/sources 
 * example
 * example
